@@ -1,0 +1,32 @@
+C:\Users\HP\source\repos\test arduino 3\test arduino 3\bin\Debug\test arduino 3.exe.config
+C:\Users\HP\source\repos\test arduino 3\test arduino 3\bin\Debug\test arduino 3.exe
+C:\Users\HP\source\repos\test arduino 3\test arduino 3\bin\Debug\test arduino 3.pdb
+C:\Users\HP\source\repos\test arduino 3\test arduino 3\obj\Debug\test arduino 3.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\test arduino 3\test arduino 3\obj\Debug\test arduino 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\test arduino 3\test arduino 3\obj\Debug\test_arduino_3.Form1.resources
+C:\Users\HP\source\repos\test arduino 3\test arduino 3\obj\Debug\test_arduino_3.Properties.Resources.resources
+C:\Users\HP\source\repos\test arduino 3\test arduino 3\obj\Debug\test arduino 3.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\test arduino 3\test arduino 3\obj\Debug\test arduino 3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\test arduino 3\test arduino 3\obj\Debug\test arduino 3.exe
+C:\Users\HP\source\repos\test arduino 3\test arduino 3\obj\Debug\test arduino 3.pdb
+D:\magang\4 Agustus 2022\test arduino 3\test arduino 3\bin\Debug\test arduino 3.exe.config
+D:\magang\4 Agustus 2022\test arduino 3\test arduino 3\bin\Debug\test arduino 3.exe
+D:\magang\4 Agustus 2022\test arduino 3\test arduino 3\bin\Debug\test arduino 3.pdb
+D:\magang\4 Agustus 2022\test arduino 3\test arduino 3\obj\Debug\test arduino 3.csproj.AssemblyReference.cache
+D:\magang\4 Agustus 2022\test arduino 3\test arduino 3\obj\Debug\test arduino 3.csproj.SuggestedBindingRedirects.cache
+D:\magang\4 Agustus 2022\test arduino 3\test arduino 3\obj\Debug\test_arduino_3.Form1.resources
+D:\magang\4 Agustus 2022\test arduino 3\test arduino 3\obj\Debug\test_arduino_3.Properties.Resources.resources
+D:\magang\4 Agustus 2022\test arduino 3\test arduino 3\obj\Debug\test arduino 3.csproj.GenerateResource.cache
+D:\magang\4 Agustus 2022\test arduino 3\test arduino 3\obj\Debug\test arduino 3.csproj.CoreCompileInputs.cache
+D:\magang\4 Agustus 2022\test arduino 3\test arduino 3\obj\Debug\test arduino 3.exe
+D:\magang\4 Agustus 2022\test arduino 3\test arduino 3\obj\Debug\test arduino 3.pdb
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\LED, Button, Servo, Potensio\test arduino 3\test arduino 3\bin\Debug\test arduino 3.exe.config
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\LED, Button, Servo, Potensio\test arduino 3\test arduino 3\bin\Debug\test arduino 3.exe
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\LED, Button, Servo, Potensio\test arduino 3\test arduino 3\bin\Debug\test arduino 3.pdb
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\LED, Button, Servo, Potensio\test arduino 3\test arduino 3\obj\Debug\test arduino 3.csproj.AssemblyReference.cache
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\LED, Button, Servo, Potensio\test arduino 3\test arduino 3\obj\Debug\test_arduino_3.Form1.resources
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\LED, Button, Servo, Potensio\test arduino 3\test arduino 3\obj\Debug\test_arduino_3.Properties.Resources.resources
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\LED, Button, Servo, Potensio\test arduino 3\test arduino 3\obj\Debug\test arduino 3.csproj.GenerateResource.cache
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\LED, Button, Servo, Potensio\test arduino 3\test arduino 3\obj\Debug\test arduino 3.csproj.CoreCompileInputs.cache
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\LED, Button, Servo, Potensio\test arduino 3\test arduino 3\obj\Debug\test arduino 3.exe
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\LED, Button, Servo, Potensio\test arduino 3\test arduino 3\obj\Debug\test arduino 3.pdb

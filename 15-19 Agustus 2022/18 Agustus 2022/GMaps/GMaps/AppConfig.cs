@@ -1,0 +1,6 @@
+﻿namespace GMaps
+{
+    class AppConfig
+    {
+    }
+}

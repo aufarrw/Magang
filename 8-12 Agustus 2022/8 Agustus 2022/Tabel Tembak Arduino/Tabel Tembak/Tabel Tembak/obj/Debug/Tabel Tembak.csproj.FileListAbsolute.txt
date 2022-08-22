@@ -1,0 +1,21 @@
+D:\magang\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\bin\Debug\Tabel Tembak.exe.config
+D:\magang\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\bin\Debug\Tabel Tembak.exe
+D:\magang\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\bin\Debug\Tabel Tembak.pdb
+D:\magang\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel Tembak.csproj.AssemblyReference.cache
+D:\magang\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel Tembak.csproj.SuggestedBindingRedirects.cache
+D:\magang\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel_Tembak.Form1.resources
+D:\magang\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel_Tembak.Properties.Resources.resources
+D:\magang\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel Tembak.csproj.GenerateResource.cache
+D:\magang\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel Tembak.csproj.CoreCompileInputs.cache
+D:\magang\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel Tembak.exe
+D:\magang\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel Tembak.pdb
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\bin\Debug\Tabel Tembak.exe.config
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\bin\Debug\Tabel Tembak.exe
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\bin\Debug\Tabel Tembak.pdb
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel Tembak.csproj.AssemblyReference.cache
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel_Tembak.Extensions.resources
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel_Tembak.Properties.Resources.resources
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel Tembak.csproj.GenerateResource.cache
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel Tembak.csproj.CoreCompileInputs.cache
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel Tembak.exe
+E:\magang\8-12 Agustus 2022\8 Agustus 2022\Tabel Tembak Arduino\Tabel Tembak\Tabel Tembak\obj\Debug\Tabel Tembak.pdb

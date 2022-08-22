@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabel Tembak</title>
+    <link rel="stylesheet" href="style.css" />
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    <style>
+        #map{
+            height: 400px;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body style="background-color: #98D7C2;">
+    <div>
+        <!-- navbar -->
+        <nav class="navbar navbar-dark" style="background-color: #29A0B1">
+            <div class="container-fluid">
+              <b class="navbar-brand text-uppercase">Google Maps</b>
+            </div>
+        </nav>
+          <!-- navbar end -->
+          <!-- main interface -->
+        <div class="container mt-5">
+            <!-- text box isian -->
+            <div class="flex-row col-sm-12">
+                <b class="mt-3 text-uppercase" style="color: white;">Latitude</b>
+                <input class="form-control col-sm ms-2 me-5" type="text" placeholder="Latitude" aria-label="Isian"
+                id="isian">
+            </div>
+            <!-- text box isian end -->
+            <!-- text box jarak -->
+            <div class="flex-row col-sm-12">
+                <b class="mt-3 text-uppercase" style="color: white;">Longitude</b>
+                <input class="form-control col-sm ms-2 me-5" type="text" placeholder="Longitude" aria-label="Jarak"
+                id="jarak">
+            </div>
+            <!-- text box jarak end-->
+            <!-- button -->
+            <div>
+                <button class="btn d-flex mt-3 ms-3" style="background-color: #29A0B1; color: white;" type="button" onclick="initMap()"
+                >Submit</button>
+            </div>
+            <!-- button end-->
+            <!-- Google Maps -->
+            <div class="mt-3" id="map">
+            </div>
+            <!-- Google Maps End -->
+        </div>
+        <!-- main interface end-->
+    </div>
+
+
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+    <script src="gmaps.js" type="application/javascript"></script>
+    <script async
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAxNBzhQqNdBmymZQbduffTZY-8h2KgQqE
+    &callback=initMap">
+</script>
+</body>
+
+</html>

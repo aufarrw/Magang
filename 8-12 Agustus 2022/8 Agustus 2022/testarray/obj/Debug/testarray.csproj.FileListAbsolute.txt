@@ -1,0 +1,10 @@
+C:\Users\4monk\source\repos\testarray\bin\Debug\testarray.exe.config
+C:\Users\4monk\source\repos\testarray\bin\Debug\testarray.exe
+C:\Users\4monk\source\repos\testarray\bin\Debug\testarray.pdb
+C:\Users\4monk\source\repos\testarray\obj\Debug\testarray.csproj.AssemblyReference.cache
+C:\Users\4monk\source\repos\testarray\obj\Debug\Extensions.resources
+C:\Users\4monk\source\repos\testarray\obj\Debug\testarray.Properties.Resources.resources
+C:\Users\4monk\source\repos\testarray\obj\Debug\testarray.csproj.GenerateResource.cache
+C:\Users\4monk\source\repos\testarray\obj\Debug\testarray.csproj.CoreCompileInputs.cache
+C:\Users\4monk\source\repos\testarray\obj\Debug\testarray.exe
+C:\Users\4monk\source\repos\testarray\obj\Debug\testarray.pdb

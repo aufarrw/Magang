@@ -1,0 +1,22 @@
+C:\Users\HP\source\repos\test arduino\test arduino\bin\Debug\test arduino.exe.config
+C:\Users\HP\source\repos\test arduino\test arduino\bin\Debug\test arduino.exe
+C:\Users\HP\source\repos\test arduino\test arduino\bin\Debug\test arduino.pdb
+C:\Users\HP\source\repos\test arduino\test arduino\obj\Debug\test arduino.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\test arduino\test arduino\obj\Debug\test arduino.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\test arduino\test arduino\obj\Debug\test_arduino.Form1.resources
+C:\Users\HP\source\repos\test arduino\test arduino\obj\Debug\test_arduino.Properties.Resources.resources
+C:\Users\HP\source\repos\test arduino\test arduino\obj\Debug\test arduino.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\test arduino\test arduino\obj\Debug\test arduino.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\test arduino\test arduino\obj\Debug\test arduino.exe
+C:\Users\HP\source\repos\test arduino\test arduino\obj\Debug\test arduino.pdb
+D:\magang\4 Agustus 2022\test arduino\test arduino\bin\Debug\test arduino.exe.config
+D:\magang\4 Agustus 2022\test arduino\test arduino\bin\Debug\test arduino.exe
+D:\magang\4 Agustus 2022\test arduino\test arduino\bin\Debug\test arduino.pdb
+D:\magang\4 Agustus 2022\test arduino\test arduino\obj\Debug\test arduino.csproj.AssemblyReference.cache
+D:\magang\4 Agustus 2022\test arduino\test arduino\obj\Debug\test arduino.csproj.SuggestedBindingRedirects.cache
+D:\magang\4 Agustus 2022\test arduino\test arduino\obj\Debug\test_arduino.Form1.resources
+D:\magang\4 Agustus 2022\test arduino\test arduino\obj\Debug\test_arduino.Properties.Resources.resources
+D:\magang\4 Agustus 2022\test arduino\test arduino\obj\Debug\test arduino.csproj.GenerateResource.cache
+D:\magang\4 Agustus 2022\test arduino\test arduino\obj\Debug\test arduino.csproj.CoreCompileInputs.cache
+D:\magang\4 Agustus 2022\test arduino\test arduino\obj\Debug\test arduino.exe
+D:\magang\4 Agustus 2022\test arduino\test arduino\obj\Debug\test arduino.pdb
